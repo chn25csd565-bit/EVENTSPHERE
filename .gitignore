@@ -1,0 +1,21 @@
+# Compiled Java classes
+src/main/webapp/WEB-INF/classes/
+*.class
+
+# Temporary and build artifacts
+sources.txt
+*.log
+*.tmp
+test.jpg
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
